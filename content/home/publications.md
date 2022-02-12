@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
-subtitle: ''
+title: Paper Implications
+subtitle: 'Several of my academic papers have been accepted by international academic conferences or under review by top international journals. Below, I combined the listed academic papers to explain how my research helps people understand platform strategy, design, and regulation in the Chinese context. These papers cover all major platforms in China, including Tencent, Alibaba, Douyin, Meituan, Kuaishou, Pinduoduo, Jingdong, Ctrip, DiDi, etc.'
 
 content:
   # Filter on criteria

@@ -29,7 +29,7 @@ education:
     institution: Boston University
     year: 2017-2021
   - course: B.A. in Financial Management, Guanghua School of Management
-            Minor in Statistics, School of Mathematics
+  - course: Minor in Statistics, School of Mathematics
     institution: Peking University
     year: 2003-2007
   

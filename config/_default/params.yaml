@@ -21,13 +21,13 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: zhouzhou@cityu.edu.hk
-phone: :+852-69167860 
+phone: +852-69167860 
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: 6-281, Lau Ming Wai Academic Building
+  city: Tat Chee Avenue
   region: Kowloon
-  postcode:
-  country: Hong Kong
+  postcode: Hong Kong
+  country: 
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'

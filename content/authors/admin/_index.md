@@ -70,9 +70,9 @@ highlight_name: true
 ---
 
 My research is dedicated to solving practical problems of China's platform companies based on platform theory. I am developing a theory of platform competitive advantage from the following two perspectives: 
-** How platform strategy and design affect long-term platform moat; 
-** Whether the platform harms social welfare when it uses platform strategy and design to enhance its competitive advantage. My research on innovation and entrepreneurship in the digital economy includes how to initiate a platform business and how to initiate a business on the platform.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+1) How platform strategy and design affect long-term platform moat; 
+2) Whether the platform harms social welfare when it uses platform strategy and design to enhance its competitive advantage. My research on innovation and entrepreneurship in the digital economy includes how to initiate a platform business and how to initiate a business on the platform.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
